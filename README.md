@@ -66,7 +66,7 @@ A sleek and interactive portfolio site built with modern tech
 
 &nbsp;
 
-### 🔹 [Brain Tumor Detection System](https://github.com/its-tarun-2505/brain-tumor-detection)
+### 🔹 [Brain Tumor Detection System](https://github.com/its-tarun-2505/Brain_Tumor_Detection)
 > 🧠 AI-driven MRI Analysis for Brain Tumor Detection
 
 Deep learning-based system to detect tumors in brain MRIs  
